@@ -1,2 +1,2 @@
-# jmsexample
- Simple JMS example
+# JMS Messaging
+A simple JMS messaging example using Spring Boot
